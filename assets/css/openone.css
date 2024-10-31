@@ -1,0 +1,7 @@
+input.open-input {
+    width: 100%;
+    max-width: 330px;
+}
+.msg-store {
+    color: red;
+}
